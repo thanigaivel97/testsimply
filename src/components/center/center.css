@@ -1,0 +1,30 @@
+.enableflex {
+    display: flex;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.allowmargin {
+    margin-right: 10px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.buttoncss {
+    border: 1px solid black;
+}
+
+.marg {
+    margin-right: 200px;
+    height: 10px;
+}
+
+.borderforthis {
+    border: 1px solid blue;
+}
+
+.inner {
+    padding: 10px;
+}

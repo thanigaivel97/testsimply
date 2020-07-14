@@ -1,0 +1,33 @@
+.moveright {
+    margin-right: 140px;
+    font-weight: bold;
+}
+
+.mainclass {
+    border: 2px solid whitesmoke;
+}
+
+.overall {
+    padding: 10px;
+}
+
+.paddinginside {
+    padding: 4px;
+}
+
+.borderfordemo {
+    border-left: 2px solid whitesmoke;
+    padding: 20px;
+}
+
+.padd {
+    padding: 20px;
+}
+
+.putin {
+    padding: 15px;
+}
+
+.changefont {
+    font-weight: bolder;
+}

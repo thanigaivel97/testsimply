@@ -1,0 +1,21 @@
+li {
+    margin-right: 20px;
+}
+
+span {
+    padding: 10px;
+}
+
+.heading {
+    padding-right: 200px;
+    margin: 0;
+    border-right: 2px solid blanchedalmond;
+}
+
+.fullnav {
+    border-bottom: 2px solid blanchedalmond;
+}
+
+.nomargin {
+    margin: 0;
+}
